@@ -1,86 +1,68 @@
-<mxfile modified="2019-11-18T10:08:55.565Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="B26uv9u7jhjA8R9g3H5g" version="12.2.6" type="github" pages="1">
+<mxfile modified="2021-12-10T16:59:26.543Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="qLIxrADw2Pe-B6nW0iGy" version="15.9.4" type="github">
   <diagram name="Page-1" id="767dcdeb-5588-77ea-baeb-2d64886a15cd">
-    <mxGraphModel dx="1408" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <mxCell id="0"/>
-        <mxCell id="1" parent="0"/>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
         <mxCell id="22" value="" style="line;strokeWidth=2;html=1;shadow=0;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="686" y="634" width="70" height="10" as="geometry"/>
+          <mxGeometry x="686" y="634" width="70" height="10" as="geometry" />
         </mxCell>
         <mxCell id="21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;shadow=0;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="385" y="536" width="72" height="197" as="geometry"/>
+          <mxGeometry x="385" y="536" width="72" height="197" as="geometry" />
         </mxCell>
         <mxCell id="6" value="" style="line;strokeWidth=2;html=1;shadow=0;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="134" y="635" width="60" height="10" as="geometry"/>
+          <mxGeometry x="134" y="635" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Prevention of Use&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;Definition:&lt;/b&gt;&lt;br&gt;Any policy, programme, or activity that is (at least partially) directly or indirectly aimed at preventing, delaying or reducing alcohol/drug use, and/or its negative consequences such as health and social harm, or the development of problematic alcohol/drug use. (&lt;a href=&quot;http://www.emcdda.europa.eu/system/files/publications/646/TD3111250ENC_318193.pdf&quot;&gt;EMCDDA, 2011&lt;/a&gt;)&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;b&gt;Description:&lt;br&gt;&lt;/b&gt;&lt;span&gt;Positive / informed choices, refrain from use, delay onset of use, lower risk of use, reduce harm&lt;/span&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;spacing=5;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="40" y="206" width="160" height="404" as="geometry"/>
+          <mxGeometry x="40" y="206" width="160" height="404" as="geometry" />
         </mxCell>
         <mxCell id="5" value="&lt;a href=&quot;/highland-substance-misuse-framework/&quot;&gt;Highland Substance Awareness: Prevention and Education Framework&lt;/a&gt;, &lt;a href=&quot;/substance-misuse-toolkit/parent-carers/&quot;&gt;family education &amp;amp; awareness raising&lt;/a&gt;, &lt;a target=&quot;_blank&quot; href=&quot;https://hi-hope.org/directory&quot;&gt;generic positive/diversionary activities&lt;/a&gt;, &lt;a target=&quot;_blank&quot; href=&quot;http://young.scot/choices-for-life/&quot;&gt;promote positive choices&lt;/a&gt;, &lt;a target=&quot;_blank&quot; href=&quot;https://www.facebook.com/drugsandalcoholtellingitlikeitis/&quot;&gt;Public awareness&lt;/a&gt;, &lt;a target=&quot;_blank&quot; href=&quot;https://www.gov.scot/binaries/content/documents/govscot/publications/strategy-plan/2018/11/alcohol-framework-2018-preventing-harm-next-steps-changing-relationship-alcohol/documents/alcohol-framework-2018-preventing-harm-next-steps-changing-relationship-alcohol/alcohol-framework-2018-preventing-harm-next-steps-changing-relationship-alcohol/govscot%3Adocument/00543214.pdf&quot;&gt;whole population approaches&lt;/a&gt;, &lt;a target=&quot;_blank&quot; href=&quot;http://www.highland-adp.org.uk/meet-the-macphersons2&quot;&gt;social marketing&lt;/a&gt;, &lt;a target=&quot;_blank&quot; href=&quot;http://www.gov.scot/Resource/0051/00511169.pdf&quot;&gt;Drug education and prevention,&lt;/a&gt; &lt;a target=&quot;_blank&quot; href=&quot;http://www.highlandmentalwellbeing.scot.nhs.uk/&quot;&gt;Highland Mental Wellbeing,&lt;/a&gt; &lt;a target=&quot;_blank&quot; href=&quot;http://www.youthhighland.org.uk/&quot;&gt;Peer Education&lt;/a&gt;" style="shape=ext;double=1;whiteSpace=wrap;html=1;shadow=0;spacing=5;verticalAlign=top;align=left;" parent="1" vertex="1">
-          <mxGeometry x="40" y="667" width="250" height="153" as="geometry"/>
+          <mxGeometry x="40" y="667" width="250" height="153" as="geometry" />
         </mxCell>
         <mxCell id="8" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Occasional Drug Use&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;Definition:&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;span&gt;The use of alcohol/psychoactive substances to ‘have fun’,usually in social settings. (&lt;a href=&quot;http://www.emcdda.europa.eu/system/files/publications/211/Dif06en_63529.pdf&quot;&gt;EMCDDA, 2002&lt;/a&gt;)&lt;br&gt;&lt;/span&gt;&lt;b&gt;&lt;br&gt;Description:&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;span&gt;curiosity, testing out, semi-regular use, socialising aspects e.g. partying&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;spacing=5;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="240" y="206" width="160" height="404" as="geometry"/>
+          <mxGeometry x="240" y="206" width="160" height="404" as="geometry" />
         </mxCell>
         <mxCell id="11" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Risky/Harmful Use&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;A pattern of alcohol/substance use that causes damage to health. The damage may be physical or mental, or has resulted in behaviour leading to harm of others. (&lt;a href=&quot;https://icd.who.int/browse11/l-m/en#/http%3a%2f%2fid.who.int%2ficd%2fentity%2f1334295394?view=G0&quot;&gt;ICD11 Example&lt;/a&gt;)&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Description:&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;span&gt;Intoxication, heavy episodic use, increased; frequency / level / hazardous patterns of use, harm to health / wellbeing e.g. A&amp;amp;E presentation, vulnerable to offending behaviour&lt;/span&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;spacing=5;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="440" y="206" width="160" height="404" as="geometry"/>
-        </mxCell>
-        <mxCell id="13" value="" style="endArrow=classic;html=1;exitX=1.02;exitY=0.545;exitPerimeter=0;strokeColor=#000000;dashed=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="316" as="sourcePoint"/>
-            <mxPoint x="437" y="316" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="14" value="" style="endArrow=classic;html=1;exitX=1.02;exitY=0.545;exitPerimeter=0;dashed=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="315" as="sourcePoint"/>
-            <mxPoint x="237" y="315" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="15" value="" style="endArrow=classic;html=1;exitX=1.02;exitY=0.545;exitPerimeter=0;dashed=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="315" as="sourcePoint"/>
-            <mxPoint x="637" y="315" as="targetPoint"/>
-          </mxGeometry>
+          <mxGeometry x="440" y="206" width="160" height="404" as="geometry" />
         </mxCell>
         <mxCell id="17" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Dependence&lt;/font&gt;&lt;/b&gt;&lt;span&gt;&lt;/span&gt;&lt;br&gt;&lt;span&gt;&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;&lt;br&gt;Definition:&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;span&gt;&lt;span&gt;A cluster of behavioural, cognitive and physiological phenomena that develop after repeated substance use and that typically include a strong desire to take the substance, difficulties in controlling use, persisting in its use despite harmful consequences, increased tolerance, and sometimes a physical withdrawal state&lt;/span&gt;. (&lt;a href=&quot;https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/473001402?view=G0&quot;&gt;ICD 11 Example&lt;/a&gt;)&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;b&gt;Description:&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;span&gt;Frequent / daily use, more isolated, use inappropriate to time and place, primary focus, compulsive, lack of self control, negative impact on health /wellbeing&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;spacing=5;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="640" y="206" width="160" height="404" as="geometry"/>
+          <mxGeometry x="640" y="206" width="160" height="404" as="geometry" />
         </mxCell>
         <mxCell id="18" value="&lt;a href=&quot;http://knowthescore.info/drugs-facts/myths/&quot;&gt;Challenging myths&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=F9K5Z1I08aQ&amp;amp;t=321s&quot;&gt;resistance skills&lt;/a&gt;, &lt;a href=&quot;http://mentoruk.org.uk/information-and-advice/parents-and-carers/&quot;&gt;parenting support&lt;/a&gt;, &lt;a href=&quot;http://www.forhighlandschildren.org/4-icspublication/index_12_597789979.pdf&quot;&gt;parenting skills&lt;/a&gt;, &lt;a href=&quot;http://knowthescore.info/wp-content/uploads/2017/02/KTS_Parents_Guide_2013.pdf&quot;&gt;Parent&#39;s guide to drugs,&lt;/a&gt; &lt;a target=&quot;_blank&quot; href=&quot;http://www.eden-court.co.uk/northernstars&quot;&gt;targeted positive/diversionary initiatives&lt;/a&gt;, &lt;a href=&quot;https://www.nhshighland.scot.nhs.uk/YourHealth/Documents/HITTraining/Prospectus-2019-2020.pdf#page=27&quot;&gt;brief interventions&lt;/a&gt;, &lt;a href=&quot;http://www.crew2000.org.uk/party-safer.html&quot; target=&quot;_blank&quot;&gt;harm reduction&lt;/a&gt;" style="shape=ext;double=1;whiteSpace=wrap;html=1;shadow=0;spacing=5;verticalAlign=top;align=left;" parent="1" vertex="1">
-          <mxGeometry x="333" y="670" width="200" height="150" as="geometry"/>
+          <mxGeometry x="333" y="670" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="23" value="&lt;div&gt;&lt;a href=&quot;https://www.nhshighland.scot.nhs.uk/YourHealth/Documents/HITTraining/Prospectus-2019-2020.pdf#page=8&quot;&gt;Motivational Interviewing to support Health Behaviour Change&lt;/a&gt;, &lt;a href=&quot;http://www.nhshighland.scot.nhs.uk/Services/Pages/CAMHS.aspx&quot;&gt;family therapy&lt;/a&gt;, &lt;a href=&quot;http://www.highland-adp.org.uk/recovery&quot;&gt;HADP Quality Support and Recovery&lt;/a&gt;, &lt;a href=&quot;http://www.nhshighland.scot.nhs.uk/Services/Pages/DrugandAlcoholRecoveryService.aspx&quot;&gt;Highland Alcohol and Drug Advice and Support Service (HADASS)&lt;/a&gt;&lt;/div&gt;" style="shape=ext;double=1;whiteSpace=wrap;html=1;shadow=0;spacing=5;verticalAlign=top;align=left;" parent="1" vertex="1">
-          <mxGeometry x="600" y="667" width="200" height="153" as="geometry"/>
+          <mxGeometry x="600" y="667" width="200" height="153" as="geometry" />
         </mxCell>
         <mxCell id="26" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Intervention&lt;/font&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="616" width="100" height="40" as="geometry"/>
+          <mxGeometry x="40" y="616" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="27" value="" style="line;strokeWidth=2;html=1;shadow=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="645" width="760" height="10" as="geometry"/>
+          <mxGeometry x="40" y="645" width="760" height="10" as="geometry" />
         </mxCell>
         <mxCell id="28" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Support&lt;/font&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="822" width="100" height="40" as="geometry"/>
+          <mxGeometry x="40" y="822" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="29" value="" style="line;strokeWidth=2;html=1;shadow=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="857" width="760" height="10" as="geometry"/>
+          <mxGeometry x="40" y="857" width="760" height="10" as="geometry" />
         </mxCell>
         <mxCell id="30" value="&lt;b&gt;Universal Services&lt;/b&gt;&lt;br&gt;&lt;a href=&quot;https://www.highland.gov.uk/school-list&quot; target=&quot;_blank&quot;&gt;Schools&lt;/a&gt;, &lt;a href=&quot;http://enquire.org.uk/service/school-nurse-contact-nhs-highland-2&quot; target=&quot;_blank&quot;&gt;school nurses&lt;/a&gt;, &lt;a href=&quot;http://www.nhshighland.scot.nhs.uk/Services/Pages/Gp_HealthCentres.aspx&quot; target=&quot;_blank&quot;&gt;GPs&lt;/a&gt;, &lt;a href=&quot;http://www.nhshighland.scot.nhs.uk/YourHealth/Pages/SexualHealth.aspx&quot; target=&quot;_blank&quot;&gt;Teen Sexual Health Clinic&lt;/a&gt;, &lt;a href=&quot;http://www.wavehighland.com&quot; target=&quot;_blank&quot;&gt;Wave Highland,&lt;/a&gt; &lt;a href=&quot;https://www.highlifehighland.com/&quot; target=&quot;_blank&quot;&gt;Highlife Highland&lt;/a&gt;, &lt;a href=&quot;http://young.scot/choices-for-life/&quot; target=&quot;_blank&quot;&gt;Choices For Life&lt;/a&gt;" style="whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;spacing=10;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="40" y="880" width="220" height="104" as="geometry"/>
+          <mxGeometry x="40" y="880" width="220" height="104" as="geometry" />
         </mxCell>
         <mxCell id="31" value="&lt;b&gt;General Services&lt;/b&gt;&lt;br&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.barnardos.org.uk/inverness&quot;&gt;Barnardos&lt;/a&gt;, &lt;a href=&quot;http://www.highlandsubstancemisuse.scot.nhs.uk/wp-content/uploads/2017/01/Alcohol-Drug-DSH-Management-of-Children-under-16.pdf&quot; target=&quot;_blank&quot;&gt;A&amp;amp;E Protocol&lt;/a&gt;, &lt;a href=&quot;http://www.highland.gov.uk/downloads/file/12903/consultation_leaflet_-_team_contact_details&quot; target=&quot;_blank&quot;&gt;Primary Mental Health Workers Service&lt;/a&gt;, &lt;a href=&quot;http://www.calman.org/&quot; target=&quot;_blank&quot;&gt;Calman Trust&lt;/a&gt;" style="whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;spacing=10;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="310" y="880" width="220" height="104" as="geometry"/>
+          <mxGeometry x="310" y="880" width="220" height="104" as="geometry" />
         </mxCell>
         <mxCell id="32" value="&lt;b&gt;Specialist Services&lt;/b&gt;&lt;br&gt;&lt;a href=&quot;https://www.actionforchildren.org.uk/in-your-area/services/youth-justice/gael-og-probation/&quot; target=&quot;_blank&quot;&gt;Action for Children&lt;/a&gt;, &lt;a href=&quot;http://www.highland.gov.uk/info/1361/childcare_and_family_care/444/youth_action_service&quot;&gt;Youth Action Team&lt;/a&gt;, &lt;a href=&quot;http://www.nhshighland.scot.nhs.uk/Services/Pages/DrugandAlcoholRecoveryService.aspx&quot; target=&quot;_blank&quot;&gt;Drug and Alcohol Recovery Service (16-17 not in education)&lt;/a&gt;, &lt;a href=&quot;http://www.nhshighland.scot.nhs.uk/Services/Pages/CAMHS.aspx&quot; target=&quot;_blank&quot;&gt;CAMHS&lt;/a&gt;, &lt;a href=&quot;https://www.crossreach.org.uk/our-locations/beechwood-house&quot; target=&quot;_blank&quot;&gt;Crossreach&lt;/a&gt;" style="whiteSpace=wrap;html=1;shadow=0;dashed=1;align=left;spacing=10;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="580" y="880" width="220" height="104" as="geometry"/>
+          <mxGeometry x="580" y="880" width="220" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="35" value="&lt;div align=&quot;left&quot;&gt;The Prevention and Intervention Model is a non-clinical resource highlighting various stages of substance use, corresponding interventions, and suggested support avenues for each stage.&amp;nbsp; Please note that not every person will go through each stage, and stages can be multidirectional.&lt;br&gt;&lt;br&gt;Very few young people develop dependency. Those who use drugs or alcohol problematically are likely to be vulnerable and experiencing a range of problems, of which substance use is one.&lt;br&gt;&lt;br&gt;The pathway has been established to clarify available resources in Highland: highlighting any gaps in provision that may need to be met.&lt;br&gt;&lt;br&gt;Following consultation on the pathway, thanks are expressed to both colleagues and partner agencies who provided their support. However, if you would like to suggest any improvements, please do get in touch.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="40" y="23" width="760" height="162" as="geometry"/>
+        <mxCell id="35" value="&lt;div align=&quot;left&quot;&gt;The Prevention and Intervention Model is a non-clinical resource highlighting various stages of substance use, corresponding interventions, and suggested support avenues for each stage. Please note that not every person will go through each stage, and stages can be multidirectional.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;There are various risk factors that increase likelihood of problematic alcohol and drug use, including adverse childhood experiences, and experiencing health inequalities. Addressing route causes and these issues and establishing trauma-informed culture and practice are necessary.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot; style=&quot;text-align: -webkit-left&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;There are a number of protective factors that reduce the risk of problematic alcohol and drug use, including attachment and supportive relationships with parents / carers. Fewer people (including young people) are using drugs and drinking alcohol. The majority that do, do not develop dependency. However, those who use drugs or alcohol problematically are likely to be vulnerable and experiencing a range of problems, of which substance use is one. The pathway has been established to clarify available resources in Highland: highlighting any gaps in provision that may need to be met. Following consultation on the pathway, thanks are expressed to both colleagues and partner agencies who provided their support. However, if you would like to suggest any improvements, please do get in touch&lt;/span&gt;.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="20" y="23" width="790" height="162" as="geometry" />
         </mxCell>
         <mxCell id="36" value="&lt;div align=&quot;left&quot;&gt;&lt;span&gt;Young people who use substances will generally be doing so experimentally or recreationally and in the majority of cases will not be considered to be placing themselves at risk of significant harm. However for some young people,drug or alcohol use may indicate increased levels of vulnerability or risk, particularly where this use has become problematic for them and/or those around them.&lt;br&gt;&lt;br&gt;If there are concerns that a young person may be at risk of significant harm then a discussion should take place with a Practice Lead in the local &lt;a href=&quot;http://hcpc.scot/professionals/&quot;&gt;Family Team&lt;/a&gt; and in line with the &lt;a href=&quot;http://www.forhighlandschildren.org/2-childprotection/index_62_4235895155.pdf&quot;&gt;Highland Child Protection Policy Guidelines (October 2016): Section 4 - Responding to Children’s Needs&lt;/a&gt;.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="43" y="1006" width="760" height="105" as="geometry"/>
+          <mxGeometry x="43" y="1006" width="760" height="105" as="geometry" />
         </mxCell>
         <mxCell id="37" value="To be reviewed in Autumn 2021" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="600" y="1111" width="200" height="30" as="geometry"/>
+          <mxGeometry x="600" y="1111" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
