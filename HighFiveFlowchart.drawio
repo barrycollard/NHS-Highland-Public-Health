@@ -1,65 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2023-01-30T14:43:50.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="0An7OJ7mjdQnhHd-8tF4" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-30T14:46:47.378Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="v9JK4DWEwW949zqPXiMN" version="20.8.13" type="github">
   <diagram name="Page-1" id="18qpsOpHfNlkTKjGcvZA">
     <mxGraphModel dx="1220" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LWbAsCwoJhyLVax1-sXV-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LWbAsCwoJhyLVax1-sXV-1" target="LWbAsCwoJhyLVax1-sXV-2">
+        <mxCell id="LWbAsCwoJhyLVax1-sXV-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="LWbAsCwoJhyLVax1-sXV-1" target="LWbAsCwoJhyLVax1-sXV-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LWbAsCwoJhyLVax1-sXV-1" value="Read the &lt;a href=&quot;https://www.highfive.scot.nhs.uk/toolkit/highfive-principles/&quot;&gt;High 5 Principles&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWbAsCwoJhyLVax1-sXV-1" value="Read the &lt;a href=&quot;https://www.highfive.scot.nhs.uk/toolkit/highfive-principles/&quot;&gt;High 5 Principles&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LWbAsCwoJhyLVax1-sXV-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LWbAsCwoJhyLVax1-sXV-2" target="LWbAsCwoJhyLVax1-sXV-4">
+        <mxCell id="LWbAsCwoJhyLVax1-sXV-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="LWbAsCwoJhyLVax1-sXV-2" target="LWbAsCwoJhyLVax1-sXV-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LWbAsCwoJhyLVax1-sXV-2" value="Choose relevant &lt;a href=&quot;https://www.highfive.scot.nhs.uk/toolkit/lesson-plans/&quot;&gt;lesson plans&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWbAsCwoJhyLVax1-sXV-2" value="Choose relevant &lt;a href=&quot;https://www.highfive.scot.nhs.uk/toolkit/lesson-plans/&quot;&gt;lesson plans&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="440" y="40" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LWbAsCwoJhyLVax1-sXV-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LWbAsCwoJhyLVax1-sXV-3" target="LWbAsCwoJhyLVax1-sXV-5">
+        <mxCell id="LWbAsCwoJhyLVax1-sXV-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="LWbAsCwoJhyLVax1-sXV-3" target="LWbAsCwoJhyLVax1-sXV-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LWbAsCwoJhyLVax1-sXV-3" value="Consider how to involve parents and the wider community" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWbAsCwoJhyLVax1-sXV-3" value="Consider how to involve parents&lt;br&gt;and the wider community" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="40" y="240" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LWbAsCwoJhyLVax1-sXV-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LWbAsCwoJhyLVax1-sXV-4" target="LWbAsCwoJhyLVax1-sXV-3">
+        <mxCell id="LWbAsCwoJhyLVax1-sXV-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="LWbAsCwoJhyLVax1-sXV-4" target="LWbAsCwoJhyLVax1-sXV-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LWbAsCwoJhyLVax1-sXV-4" value="Choose and order your &lt;a href=&quot;https://www.highfive.scot.nhs.uk/toolkit/running-a-highfive-programme/high-5-resources/&quot;&gt;High 5 Supporting Resources&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWbAsCwoJhyLVax1-sXV-4" value="Choose and order your &lt;br&gt;&lt;a href=&quot;https://www.highfive.scot.nhs.uk/toolkit/running-a-highfive-programme/high-5-resources/&quot;&gt;High 5 Supporting Resources&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="440" y="240" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LWbAsCwoJhyLVax1-sXV-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LWbAsCwoJhyLVax1-sXV-5" target="LWbAsCwoJhyLVax1-sXV-6">
+        <mxCell id="LWbAsCwoJhyLVax1-sXV-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="LWbAsCwoJhyLVax1-sXV-5" target="LWbAsCwoJhyLVax1-sXV-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LWbAsCwoJhyLVax1-sXV-5" value="&lt;a href=&quot;https://www.highfive.scot.nhs.uk/toolkit/running-a-highfive-programme/involving-your-cook/&quot;&gt;Involve your cook&lt;/a&gt; in at least one of your lesson plans" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWbAsCwoJhyLVax1-sXV-5" value="&lt;a href=&quot;https://www.highfive.scot.nhs.uk/toolkit/running-a-highfive-programme/involving-your-cook/&quot;&gt;Involve your cook&lt;/a&gt; in at least one of &lt;br&gt;your lesson plans" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="40" y="440" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LWbAsCwoJhyLVax1-sXV-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LWbAsCwoJhyLVax1-sXV-6" target="LWbAsCwoJhyLVax1-sXV-8">
+        <mxCell id="LWbAsCwoJhyLVax1-sXV-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="LWbAsCwoJhyLVax1-sXV-6" target="LWbAsCwoJhyLVax1-sXV-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LWbAsCwoJhyLVax1-sXV-6" value="Deliver your High 5 programme&lt;br&gt;(4 - 8 lessons)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWbAsCwoJhyLVax1-sXV-6" value="Deliver your High 5 programme&lt;br&gt;(4 - 8 lessons)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="440" y="440" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LWbAsCwoJhyLVax1-sXV-7" value="Fill in your &lt;a href=&quot;https://www.highfive.scot.nhs.uk/toolkit/running-a-highfive-programme/feedback-form/&quot;&gt;feedback form&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWbAsCwoJhyLVax1-sXV-7" value="Fill in your &lt;a href=&quot;https://www.highfive.scot.nhs.uk/toolkit/running-a-highfive-programme/feedback-form/&quot;&gt;feedback form&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="40" y="640" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LWbAsCwoJhyLVax1-sXV-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LWbAsCwoJhyLVax1-sXV-8" target="LWbAsCwoJhyLVax1-sXV-7">
+        <mxCell id="LWbAsCwoJhyLVax1-sXV-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="LWbAsCwoJhyLVax1-sXV-8" target="LWbAsCwoJhyLVax1-sXV-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LWbAsCwoJhyLVax1-sXV-8" value="Use last session for pupils to demonstrate their learning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWbAsCwoJhyLVax1-sXV-8" value="Use last session for pupils to &lt;br&gt;demonstrate their learning" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="440" y="640" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LWbAsCwoJhyLVax1-sXV-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="LWbAsCwoJhyLVax1-sXV-9" target="LWbAsCwoJhyLVax1-sXV-10">
+        <mxCell id="LWbAsCwoJhyLVax1-sXV-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;shape=flexArrow;" edge="1" parent="1" source="LWbAsCwoJhyLVax1-sXV-9" target="LWbAsCwoJhyLVax1-sXV-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LWbAsCwoJhyLVax1-sXV-9" value="Make High 5 part of your 3 year planning cycle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWbAsCwoJhyLVax1-sXV-9" value="Make High 5 part of your 3 year planning cycle" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="40" y="840" width="720" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LWbAsCwoJhyLVax1-sXV-10" value="Embed High 5 Principles into your whole school approach to food" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWbAsCwoJhyLVax1-sXV-10" value="Embed High 5 Principles into your whole school approach to food" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="40" y="1040" width="720" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LWbAsCwoJhyLVax1-sXV-12" value="Include your own materials (optional)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="180" width="220" height="30" as="geometry" />
+        <mxCell id="LWbAsCwoJhyLVax1-sXV-12" value="&lt;b&gt;Include your own materials (optional)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
